@@ -1,0 +1,14 @@
+.wrapper{
+    width: 80vw;
+    height: 50vh;
+    background-color: coral;
+    margin: 20px auto;
+    font-size: 1rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title{
+    padding: 23px;
+}
